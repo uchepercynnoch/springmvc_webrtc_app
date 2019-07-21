@@ -6,7 +6,28 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4786a658-2803-49d1-8c1d-532aceb76360" name="Default Changelist" comment="" />
+    <list default="true" id="4786a658-2803-49d1-8c1d-532aceb76360" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_unknown.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/peezy_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/peezy_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/peezy_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/peezy_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0b6bc7a4-6cb8-4326-b66d-a4199dc36020.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0b6bc7a4-6cb8-4326-b66d-a4199dc36020.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0b6bc7a4-6cb8-4326-b66d-a4199dc36020/storage_v2/_src_/database/peezy_dump.5I-UZA/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0b6bc7a4-6cb8-4326-b66d-a4199dc36020/storage_v2/_src_/database/peezy_dump.5I-UZA/schema/public.abK9xQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ce6149bc-729e-48ed-a652-d1468a019118/storage_v2/_src_/database/peezy_dump.5I-UZA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ce6149bc-729e-48ed-a652-d1468a019118/storage_v2/_src_/database/peezy_dump.5I-UZA/schema/public.abK9xQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f06aac3c-f941-41b1-8893-6604dc5994ee.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f06aac3c-f941-41b1-8893-6604dc5994ee.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/peezy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/peezy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernateConfig.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernateConfig.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/peezy/controller/AuthController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/peezy/controller/AuthController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hibernateConfig.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hibernateConfig.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/peezy-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/peezy-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/peezy-1.0-SNAPSHOT/WEB-INF/classes/com/peezy/controller/AuthController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/peezy-1.0-SNAPSHOT/WEB-INF/classes/com/peezy/controller/AuthController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/peezy-1.0-SNAPSHOT/WEB-INF/classes/hibernateConfig.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/peezy-1.0-SNAPSHOT/WEB-INF/classes/hibernateConfig.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/peezy-1.0-SNAPSHOT/resources/assets/plugins/bootstrap-select/js/i18n/defaults-lt_LT.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/peezy-1.0-SNAPSHOT/resources/assets/plugins/bootstrap-select/js/i18n/defaults-lt_LT.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,184 +50,15 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="peezy_dump@localhost" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="peezy_dump@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="peezy_dump@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="peezy_dump: database" type="6d9b600a:PostgresImplModel$Database" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="peezy_dump@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="peezy_dump: database" type="6d9b600a:PostgresImplModel$Database" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="peezy_dump@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="peezy_dump: database" type="6d9b600a:PostgresImplModel$Database" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="public: schema" type="a16502c0:PostgresImplModel$Schema" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="peezy_dump@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="peezy_dump: database" type="6d9b600a:PostgresImplModel$Database" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="public: schema" type="a16502c0:PostgresImplModel$Schema" />
-        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-    </expand>
+    <expand />
     <select />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1883010192">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="16" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.3" value="5" />
-          <entry key="project.open.time.30" value="1" />
-          <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.57" value="1" />
-          <entry key="project.open.time.59" value="1" />
-          <entry key="project.open.time.61" value="1" />
-          <entry key="project.open.time.64" value="1" />
-          <entry key="project.open.time.79" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.85" value="1" />
-          <entry key="project.opened" value="19" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="accounts" value="8" />
-          <entry key="authorities" value="1" />
-          <entry key="authority" value="10" />
-          <entry key="class" value="1" />
-          <entry key="css" value="1" />
-          <entry key="customer" value="5" />
-          <entry key="html" value="1" />
-          <entry key="java" value="289" />
-          <entry key="js" value="3" />
-          <entry key="jsp" value="127" />
-          <entry key="payment" value="2" />
-          <entry key="pom" value="2" />
-          <entry key="postgres" value="1" />
-          <entry key="products" value="3" />
-          <entry key="properties" value="18" />
-          <entry key="sql" value="38" />
-          <entry key="subscribers" value="1" />
-          <entry key="user" value="9" />
-          <entry key="users" value="1" />
-          <entry key="xml" value="11" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="CSS" value="1" />
-          <entry key="Database Element" value="40" />
-          <entry key="HTML" value="1" />
-          <entry key="JAVA" value="289" />
-          <entry key="JSP" value="127" />
-          <entry key="JavaScript" value="3" />
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Properties" value="18" />
-          <entry key="SQL" value="1" />
-          <entry key="Scratch" value="38" />
-          <entry key="XML" value="11" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="96" />
-          <entry key="java" value="7750" />
-          <entry key="js" value="12" />
-          <entry key="jsp" value="3014" />
-          <entry key="properties" value="370" />
-          <entry key="sql" value="702" />
-          <entry key="txt" value="22" />
-          <entry key="xml" value="391" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="HTML" value="1" />
-          <entry key="JAVA" value="7748" />
-          <entry key="JPA QL" value="2" />
-          <entry key="JSP" value="3013" />
-          <entry key="JavaScript" value="12" />
-          <entry key="PLAIN_TEXT" value="118" />
-          <entry key="Properties" value="370" />
-          <entry key="Scratch" value="702" />
-          <entry key="XML" value="391" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="-767495047">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="8" />
-          <entry key="project.open.time.23" value="1" />
-          <entry key="project.open.time.28" value="1" />
-          <entry key="project.open.time.3" value="2" />
-          <entry key="project.open.time.4" value="3" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="3" />
-          <entry key="project.open.time.65" value="1" />
-          <entry key="project.opened" value="12" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="11" />
-          <entry key="jsp" value="1" />
-          <entry key="properties" value="3" />
-          <entry key="xml" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="11" />
-          <entry key="JSP" value="1" />
-          <entry key="Properties" value="3" />
-          <entry key="XML" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/peezy/daoImpl/UserDaoImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/peezy/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="945">
+            <state relative-caret-position="461">
               <caret line="67" column="33" selection-start-line="67" selection-start-column="33" selection-end-line="67" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -215,11 +67,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/peezy/config/WebSecurityConfig.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/0b6bc7a4-6cb8-4326-b66d-a4199dc36020/console.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+            <state relative-caret-position="21">
+              <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/hibernateConfig.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/database.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="35" selection-start-column="25" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/peezy/service/UserLoginService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="25" column="65" selection-start-line="25" selection-start-column="65" selection-end-line="25" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -227,29 +106,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/peezy/config/HibernateConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/peezy/controller/AuthController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/peezy/controller/LoginController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="18" selection-start-line="18" selection-end-line="28" selection-end-column="5" />
+            <state relative-caret-position="231">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -304,7 +162,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/peezy/model/CartLineInfo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/peezy/model/OrderDetailInfo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/peezy/model/ProductInfo.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/product.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/peezy/service/ProductDaoService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/peezy/service/OrderDaoService.java" />
@@ -327,19 +184,14 @@
         <option value="$PROJECT_DIR$/src/main/webapp/resources/js/main.js" />
         <option value="$PROJECT_DIR$/src/main/java/com/peezy/config/WebSecurityConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/peezy/service/UserValidation.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/0b6bc7a4-6cb8-4326-b66d-a4199dc36020/console.sql" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home/widgets.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/peezy/controller/RestController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/peezy/controller/AuthController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/hibernateConfig.properties" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/0b6bc7a4-6cb8-4326-b66d-a4199dc36020/console.sql" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -365,12 +217,6 @@
       </expand>
       <select />
     </treeState>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths>
-      <path value="$PROJECT_DIR$/src/main/webapp/resources/assets/plugins/ckeditor/package.json" />
-      <path value="$PROJECT_DIR$/src/main/webapp/resources/assets/plugins/tinymce/package.json" />
-    </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
@@ -399,8 +245,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="peezy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="peezy" type="462c0819:PsiDirectoryNode" />
+              <item name="peezywebapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="peezywebapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="peezywebapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="peezywebapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -411,16 +262,17 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql&#10;postgresql&#10;oracle" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550168742334" />
-    <property name="database.console.LAST_STATE" value="false" />
+    <property name="database.console.LAST_STATE" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -466,7 +318,7 @@
       </method>
     </configuration>
     <configuration name="Apache" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.13" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://192.168.1.50:8080" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080" />
       <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
       <option name="UPDATING_POLICY" value="redeploy-artifacts" />
       <deployment>
@@ -479,11 +331,11 @@
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="Unnamed_peezy" />
       </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
       <extension name="net.ashald.envfile">
         <option name="IS_ENABLED" value="false" />
         <option name="IS_SUBST" value="false" />
@@ -546,8 +398,8 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Tomcat Server.Apache" />
       <item itemvalue="Application.TestMainClass" />
+      <item itemvalue="Tomcat Server.Apache" />
     </list>
     <recent_temporary>
       <list>
@@ -596,11 +448,16 @@
       <workItem from="1549273294482" duration="7000" />
       <workItem from="1550168341707" duration="456000" />
       <workItem from="1550170036169" duration="695000" />
+      <workItem from="1556730773035" duration="3674000" />
+      <workItem from="1556895196348" duration="213000" />
+      <workItem from="1556994904363" duration="1257000" />
+      <workItem from="1557221366905" duration="743000" />
+      <workItem from="1563718045615" duration="1229000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="170512000" />
+    <option name="totallyTimeSpent" value="177628000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -613,8 +470,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20818071" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21550672" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -625,20 +483,21 @@
       <window_info id="Web" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32982457" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.497558" weight="0.30760235" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969475" weight="0.35518473" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32982457" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32982457" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.502442" side_tool="true" weight="0.30760235" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32896304" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50305253" side_tool="true" weight="0.30750895" />
       <window_info anchor="bottom" id="Java Enterprise" order="9" sideWeight="0.49901184" weight="0.32982457" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Application Servers" order="12" weight="0.32982457" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32982457" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32896304" />
       <window_info anchor="bottom" id="Spring" order="14" weight="0.32982457" />
-      <window_info anchor="bottom" id="Database Console" order="15" weight="0.32982457" />
+      <window_info active="true" anchor="bottom" id="Database Console" order="15" visible="true" weight="0.32896304" />
+      <window_info anchor="bottom" id="Docker" order="16" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24969475" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -649,13 +508,11 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" weight="0.32967034" />
+      <window_info anchor="right" id="Maven" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -674,20 +531,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/peezy/dao/ProductDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/peezy/service/ProductDaoService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/peezy/service/OrderDaoService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -734,14 +577,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1275">
           <caret line="87" column="24" selection-start-line="87" selection-start-column="24" selection-end-line="87" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://0b6bc7a4-6cb8-4326-b66d-a4199dc36020/database/peezy_dump/schema/public/table/authority" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login/login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -883,13 +718,6 @@
       </provider>
     </entry>
     <entry file="das://0b6bc7a4-6cb8-4326-b66d-a4199dc36020/database/peezy_dump/schema/public/table/customer" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/0b6bc7a4-6cb8-4326-b66d-a4199dc36020/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="90" selection-start-column="90" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/peezy/service/UserDaoService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -918,45 +746,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/peezy/service/UserLoginService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="30" column="39" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="56" selection-start-line="56" selection-end-line="65" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/peezy/daoImpl/AccountDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="29" column="36" lean-forward="true" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/_header.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/hibernateConfig.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="44" selection-start-column="44" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/database.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
         </state>
       </provider>
     </entry>
@@ -967,33 +760,64 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1659">
+          <caret line="79" column="34" selection-start-line="79" selection-start-column="34" selection-end-line="79" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2964" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/peezy/daoImpl/AccountDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="29" column="36" lean-forward="true" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/peezy/config/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="681">
+          <caret line="46" column="86" selection-start-line="46" selection-start-column="76" selection-end-line="46" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://0b6bc7a4-6cb8-4326-b66d-a4199dc36020/database/peezy_dump/schema/public/table/authority" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/peezy/daoImpl/UserDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state relative-caret-position="294">
           <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/peezy/controller/UserController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/peezy/service/UserLoginService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="67" column="33" selection-start-line="67" selection-start-column="33" selection-end-line="67" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="252">
+          <caret line="25" column="65" selection-start-line="25" selection-start-column="65" selection-end-line="25" selection-end-column="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/peezy/config/HibernateConfig.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login/login.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+        <state relative-caret-position="439">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/include/taglibs_inc.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/peezy/controller/AuthController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
+        <state relative-caret-position="439">
           <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1003,15 +827,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/peezy/controller/LoginController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="168">
           <caret line="18" selection-start-line="18" selection-end-line="28" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/peezy/config/WebSecurityConfig.java">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/0b6bc7a4-6cb8-4326-b66d-a4199dc36020/console.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        <state relative-caret-position="21">
+          <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/peezy/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="67" column="33" selection-start-line="67" selection-start-column="33" selection-end-line="67" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/peezy/config/HibernateConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hibernateConfig.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/database.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" selection-start-column="25" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -1026,7 +881,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -1034,7 +888,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Web</last-edited>
+          <last-edited>Spring (peezy)|Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1093,7 +947,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: org.springframework:error:unknown</last-edited>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
